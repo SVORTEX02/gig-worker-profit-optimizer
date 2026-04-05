@@ -74,6 +74,14 @@ Gig Worker Profit Optimizer solves this by:
 
 <img width="1920" height="863" alt="image" src="https://github.com/user-attachments/assets/101891c5-5e07-4f5e-a79a-847c0a779c8b" />
 
+
+
 <img width="1891" height="838" alt="image" src="https://github.com/user-attachments/assets/edc898b2-e10c-456c-bc50-dabd7b7b5710" />
 
+
+
 <img width="1920" height="838" alt="image" src="https://github.com/user-attachments/assets/8bba85b2-cae3-4edb-8bff-bf1a46a7d885" />
+
+
+<img width="1889" height="844" alt="image" src="https://github.com/user-attachments/assets/a808ba2e-314d-4df0-8fd6-1babc7783dc4" />
+
